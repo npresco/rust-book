@@ -1,0 +1,1 @@
+/Users/npresco/Projects/tutorials/rust/rust-book/restaurant/target/debug/librestaurant.rlib: /Users/npresco/Projects/tutorials/rust/rust-book/restaurant/src/front_of_house/hosting.rs /Users/npresco/Projects/tutorials/rust/rust-book/restaurant/src/front_of_house.rs /Users/npresco/Projects/tutorials/rust/rust-book/restaurant/src/lib.rs
